@@ -1,9 +1,10 @@
 ### Olá! 👋
 
-Me chamo Guilherme Alves Da Silva e tenho 17 anos. Atualmente, estou estudando desenvolvimento de sistemas Front-end, pelo projeto Ford < ENTER >,
-uma parceria da empresa Ford Motor Company
+Me chamo Guilherme Alves Da Silva e tenho 17 anos. Atualmente, estududo desenvolvimento de sistemas Front-end, pelo projeto Ford < ENTER >,
+uma parceria da empresa Ford Motor Company, juntamente com o SENAI-SP. Estou cursando o último ano do ensino médio, e logo após terminá-lo, pretendo
+ingressar no mercado de trabalho.
 
-![Ford enter](https://www.tribunapr.com.br/wp-content/uploads/2024/02/02120623/02-fev-24-Ford-Enter-tem-nova-turma-do-programa-de-capacitacao-profissional-3.jpg)
+![Ford enter](https://lets.events/blog/wp-content/uploads/2023/01/programacao.jpg)
 
 
 ```html
@@ -36,7 +37,9 @@ A tag `<h1>` É a tag de titulo.
 
 A tag `<P>` é a tag usada para marcar um parágrafo.
 
+### tabela
+
 Idioma  | Nível
-:---------: | : ------:
+:---------: | :------:
 Inglês | Itermediário (B1)
 Espanhol | Básico
