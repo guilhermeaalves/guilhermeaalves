@@ -30,3 +30,12 @@
     <img align="center" alt="" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/guilhermeaalves/count.svg" />  
+</p>
+ 
