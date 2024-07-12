@@ -6,17 +6,28 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+       <div align="left">
   
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent)
+  ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent)
 
-</div>
-
-<div align="center">
+  </div>
+      </td>
+    <td>
+<div align="left">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaalves&layout=compact&theme=transparent)
 
 </div>
+  </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeaalves&theme=transparent&hide_border=false" alt="Github stats" />
+ </td>
+  </tr>
+</table>
 
 <div align="center">
 <picture>
