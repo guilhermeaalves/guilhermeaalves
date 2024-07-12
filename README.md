@@ -1,33 +1,10 @@
-<div align="center">
-  
-<h1> Olá! Me chamo Guilherme Alves 👋 </h1>
-
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=2368c8&lines=Olá,+eu+sou+o+Guilherme+Alves;Sou+um+dev+Front-End+💻;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
+  </a>
 </div>
 
 <img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
-
-<table>
-  <tr>
-    <td>
-       <div align="left">
-  
-  ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent)
-
-  </div>
-      </td>
-    <td>
-<div align="left">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaalves&layout=compact&theme=transparent)
-
-</div>
-  </td>
-    <td>
-<br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeaalves&theme=transparent&hide_border=false" alt="Github stats" />
- </td>
-  </tr>
-</table>
 
 <div align="center">
 <picture>
@@ -36,6 +13,35 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/guilhermeaalves/guilhermeaalves/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td>
+       
+  <a href="#">
+      <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent">
+    </a>
+   
+
+
+  </td>
+    <td>
+
+<a href="#">
+      <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaalves&layout=compact&theme=transparent">
+    </a>
+
+  </td>
+    <td>
+      
+  <a href="#">
+      <img align="left"  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeaalves&theme=transparent&hide_border=false" alt="Github stats" />
+  </a>
+ </td>
+  </tr>
+</table>
 
 <br>
 
