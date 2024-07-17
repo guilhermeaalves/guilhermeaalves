@@ -21,7 +21,7 @@
     <td>
        
   <a href="#">
-      <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent">
+      <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent">
     </a>
    
 
@@ -34,15 +34,14 @@
     </a>
 
   </td>
-    <td>
-      
-  <a href="#">
-      <img align="left"  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeaalves&theme=transparent&hide_border=false" alt="Github stats" />
-  </a>
- </td>
   </tr>
 </table>
 
+<div align="center">
+  <a href="#">
+      <img align="center"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeaalves&theme=transparent&hide_border=false" alt="Github stats" />
+  </a>
+</div>
 <br>
 
 <img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
