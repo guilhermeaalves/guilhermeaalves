@@ -1,10 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=2368c8&lines=Olá,+eu+sou+o+Guilherme+Alves;Front-End+Developer💻;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
+    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Olá,+eu+sou+o+Guilherme+Alves;Front-End+Developer💻;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
   </a>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaalves&layout=compact&hide_border=true&title_color=A020F0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
+<br/>
 
 <div align="center">
 <picture>
@@ -14,47 +20,36 @@
 </picture>
 </div>
 
-<br>
-
-<table>
-  <tr>
-    <td>
-       
-  <a href="#">
-      <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&theme=transparent">
-    </a>
-   
-
-
-  </td>
-    <td>
-
-<a href="#">
-      <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaalves&layout=compact&theme=transparent">
-    </a>
-
-  </td>
-  </tr>
-</table>
+<br/>
 
 <div align="center">
-  <a href="#">
-      <img align="center"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeaalves&theme=transparent&hide_border=false" alt="Github stats" />
-  </a>
+<h2>Main Skills</h2>
 </div>
-<br>
 
-<img width="100%" height="50" src="https://i.imgur.com/pcskAF9.png" />
-
-<div align="center">
-<h2>Skills</h2>
-</div>
 <div align="center" style="display: inline_block"><br/>
-    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
 </div>
+
+<br/>
+
+
+<div align="center">
+<h3>Studying</h3>
+</div>
+
+<div align="center"><br/>
+
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+</div>
+<br/>
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -64,3 +59,4 @@
   <img src="https://profile-counter.glitch.me/guilhermeaalves/count.svg" />  
 </p>
  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
