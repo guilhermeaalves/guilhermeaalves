@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 <div align="center" style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Olá,+eu+sou+o+Guilherme+Alves;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
-  </a>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermeaalves&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
