@@ -47,13 +47,5 @@
 
 </div>
 <br/>
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/guilhermeaalves/count.svg" />  
-</p>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
